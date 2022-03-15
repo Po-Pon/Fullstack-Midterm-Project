@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Fullstack-Midterm-Project/static/css/main.f9940b01.css",
+    "main.js": "/Fullstack-Midterm-Project/static/js/main.bfe90cc6.js",
+    "static/media/bg.jpg": "/Fullstack-Midterm-Project/static/media/bg.8ef0fa991a0cb89dee89.jpg",
+    "index.html": "/Fullstack-Midterm-Project/index.html",
+    "main.f9940b01.css.map": "/Fullstack-Midterm-Project/static/css/main.f9940b01.css.map",
+    "main.bfe90cc6.js.map": "/Fullstack-Midterm-Project/static/js/main.bfe90cc6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9940b01.css",
+    "static/js/main.bfe90cc6.js"
+  ]
+}
