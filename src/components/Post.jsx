@@ -99,7 +99,7 @@ function Post() {
     };
 
     try {
-      const result = await fetch(
+      await fetch(
         "https://fswd-wp.devnss.com/wp-json/wp/v2/comments",
         options
       )

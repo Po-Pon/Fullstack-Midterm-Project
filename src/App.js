@@ -6,7 +6,7 @@ import Navbar from './components/Navbar';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={"/Fullstack-Midterm-Project"}>
       <Navbar />
       <Views />
     </BrowserRouter>
